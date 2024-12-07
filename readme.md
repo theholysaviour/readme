@@ -4,7 +4,7 @@
 
 
 ## About me
-**Im A begginer web developer, starting with css and html. Im currently kinda bad at js but im still learning.
+**Im A begginer web developer, starting with css and html. Im currently kinda bad at js but im still learning**.
 
 ___
 
