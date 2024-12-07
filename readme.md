@@ -4,11 +4,11 @@
 
 
 ## About me
-**I am a beginner programmer.** I'm developing in the field of web technologies, doing **back-end** and **python** development. I study the **front-end** and continue to improve my programming knowledge. I will be happy to **take part in your projects** to gain experience and develop myself as a programmer.
+**Im A begginer web developer, starting with css and html. Im currently kinda bad at js but im still learning.
 
 ___
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theholysaviour&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=dark&card_width=295)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theholysaviour&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
